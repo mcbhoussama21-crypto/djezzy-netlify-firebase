@@ -1,0 +1,8 @@
+.env
+.env.*
+!.env.example
+node_modules/
+*service-account*.json
+*firebase*.json
+*.backup
+*.before-env
